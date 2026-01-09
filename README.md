@@ -31,5 +31,11 @@ Este projeto foi criado com o intuito de reforçar conhecimentos sobre:
 
 Acesse o resultado final da página 👉 https://arthurrosa1.github.io/Jogo-Detona-Ralph/
 
+---
+## ⭐‍ Se gostou…
+
+Deixe uma ⭐ no repositório! Isso me ajuda a continuar evoluindo 👨‍💻✨
+
+
 
 
